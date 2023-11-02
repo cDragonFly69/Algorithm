@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Employee/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Employee/EmployeeTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GrammarPratice/ArrayTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GrammarPratice/Case.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GrammarPratice/For.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GrammarPratice/ForTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GrammarPratice/doWhileFirst.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/TestDemo/account/DfAccount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/algorithmTest/test1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bank/Customer/Customer.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
